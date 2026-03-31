@@ -41,8 +41,8 @@ GitHub shows your profile README at the top of your profile page. For more infor
 4. In the text box **Find or create a branch...**, enter `my-first-branch`.
    
    > **Note:** This is checked to continue with the next step. :wink: 
-
-5. Click the text **Create branch: `my-first-branch` from main** to create your branch.
+z
+5. Click the text **Create branch: `m-first-branch` from main** to create your branch.
 
    <img width="300" alt="screenshot highlighting the create branch prompt" src="https://github.com/Willy0la/skills-introduction-to-github/blob/main/.github/images/create-branch-prompt.png?raw=true">
 
